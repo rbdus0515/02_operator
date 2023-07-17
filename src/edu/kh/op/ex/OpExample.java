@@ -228,7 +228,6 @@ public class OpExample { // 예제 코드 작성용 클래스
 		
 		// a를 1증가
 		a++; // a = a + 1 , a += 1
-		
 		System.out.println("a를 1 증가 : " + a ); // 11
 		
 		// a를 4증가
@@ -242,9 +241,11 @@ public class OpExample { // 예제 코드 작성용 클래스
 		// a를 3배 증가
 		a *= 3;
 		System.out.println("a를 3배 증가 : " + a ); // 15
+		
 		// a를 6으로 나눴을때 몫
 		a /= 6;
 		System.out.println("a를 6으로 나눴을때 몫 : " + a ); // 2
+		
 		// a를 2로 나눴을때 나머지
 		a %= 2;
 		System.out.println("a를 2로 나눴을때 나머지 : " + a ); // 0
